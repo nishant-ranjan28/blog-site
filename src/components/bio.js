@@ -57,7 +57,7 @@ const Bio = () => {
         Written by <strong>{author}</strong> who lives and works in Hyderabad, India.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Follow on twitter
+          Follow me on twitter
         </a>
       </p>
     </div>
