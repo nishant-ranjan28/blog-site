@@ -8,8 +8,9 @@ What are the basic differences between Selenium and Cypress? Why Cypress is the 
  
 ### [Selenium](https://selenium.dev/) WebDriver
 WebDriver is a tool for writing automated tests of websites. It aims to mimic the behavior of a real user, and as such interacts with the HTML of the application.
- 
+
 ### [Cypress](https://cypress.io)
+
 Cypress is an End-to-End javascript Testing framework, which comes with a lot of inbuilt features that you will require in any automation tool. Cypress uses **Mocha** testing framework and **chai** assertion library in its framework and mainly it's not built on top of selenium, it's a new driver that operates within your application and this allows very good control over your frontend and backend of the application.
  
 **Difference between Selenium and Cypress**
