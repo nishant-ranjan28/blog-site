@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'http://nishantranjan.in/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Nishant Ranjan',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,21 +25,21 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Nishant Ranjan',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'nishantranjan78@gmail.com',
+      facebook: 'https://www.facebook.com/nishu2811',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/nishu_2811',
+      github: 'https://github.com/nishant-ranjan28',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: 'https://www.instagram.com/imnishu/',
       line: '',
-      gitlab: '',
+      gitlab: 'https://gitlab.com/nishant-ranjan',
       weibo: '',
       codepen: '',
       youtube: '',
