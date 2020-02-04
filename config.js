@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'http://nishantranjan.in/',
+  url: 'https://nishantranjan.in/',
   pathPrefix: '/',
   title: 'Blog by Nishant Ranjan',
   subtitle: '',
