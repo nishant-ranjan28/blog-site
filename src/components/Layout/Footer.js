@@ -12,13 +12,13 @@ function Footer() {
       }}
     >
       <p>
-        Made of{' '}
+        Made by{' '}
         <a
-          href="https://github.com/thundermiracle/gatsby-simple-blog"
+          href="nishantranjan78@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          gatsby-simple-blog
+          Nishant Ranjan
         </a>
       </p>
     </footer>

@@ -1,6 +1,6 @@
 const site = {
   pathPrefix: '/gatsby-simple-blog',
-  title: 'All Post',
+  title: 'All Posts',
   author: 'Nishant Ranjan',
   description: 'All about tech',
   siteUrl: 'https://nishantranjan.in',
