@@ -4,7 +4,7 @@
 
 ## Description
 
-A gatsbyjs starter forked from gatsby-starter-blog and applied overreacted lookings, with tags and breadcrumbs, eslint, relative posts, disqus, i18n, eslint supported.
+Blog site.
 
 
 ## How to deploy by Circle-CI in Medium.com
