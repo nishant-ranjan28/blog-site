@@ -2,6 +2,7 @@
 title: Why Cypress?
 date: "2020-01-19T22:12:03.284Z"
 description: "Why Cypress is in trend?"
+disqus: true
 ---
 
 **Why Should You Switch to Cypress for Modern Web Testing?**
