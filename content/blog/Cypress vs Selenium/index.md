@@ -1,7 +1,7 @@
 ---
 title: Selenium vs Cypress
 date: "2020-01-16T22:12:03.284Z"
-tags: ['2020']
+tags: ["2020", "Automation"]
 disqus: true
 ---
 
