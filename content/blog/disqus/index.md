@@ -10,3 +10,5 @@ How to show disqus?
 * Get DisqusShortName from [disqus.com](disqus.com)
 * Set DisqusShortName in gatsby-config.js
 * Add [disqus: true] to enable Disqus
+
+Dummy commit.
