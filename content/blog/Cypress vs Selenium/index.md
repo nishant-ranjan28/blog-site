@@ -1,7 +1,7 @@
 ---
 title: Selenium vs Cypress
 date: "2020-01-16T22:12:03.284Z"
-description: "Difference between Selenium and Cypress"
+tags: ['2019']
 disqus: true
 ---
 
