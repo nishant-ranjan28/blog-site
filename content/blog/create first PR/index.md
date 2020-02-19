@@ -1,109 +1,95 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
-tags: ['2019']
+title: Create your first Pull Request
+date: "2020-02-22T22:40:32.169Z"
+description: As a begineer creating a PR could be confusing so here I am going to explain.
+tags: ['2020', 'git', 'github']
+disqus: true
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+## What is forking?
 
-## On deer horse aboard tritely yikes and much
+When we love someone’s repository and would like to have it in our GitHub account, we fork it so that we can work with it separately.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+When we fork a repository, we get an instance of that entire repository with its whole history. After forking, we can do whatever we want to do without affecting the original version.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+## What is a pull request?
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+Pull requests are the way we contribute to group projects or open source projects.
 
-### Overlaid the jeepers uselessly much excluding
+*PR* let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+## What it means to contribute?
+Not only can we contribute to an open source project with code, but we can also contribute in many other ways.  Some othe ways lists are below
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+- Design
+- Documentation
+- Answering questions (Q&A)
+- Project management (monitoring duplicate issues, suggest labels etc.)
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Lets Craete our first Pull request
+1. Go to this repo: [Fork it](https://github.com/nishant-ranjan28/forkPractice)
 
-### According a funnily until pre-set or arrogant well cheerful
+![for a repo](./fork.png)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Click on fork logo.
+2. Next go to your account and check in repository section. (forked repo will be present)
+3. Clone this repo
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+![for a repo](./cloneRepo.png)
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+Open terminal or commant prompt and Type `git clone <repo url>`
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+![for a repo](./terminal.png)
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+4. Now we have set up a copy of the master branch from the main online project
+	repository.
+	We need to go to that cloned directory by running this command:
+	`cd <name of the repo>`
 
-#### Silent delightfully including because before one up barring chameleon
+## Create a branch
+It's very important and real good practice to create branch while working with repositories. whether it’s a small project or contributing to a group's work.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+Lets create a branch using `git checkout` command.
+`git checkout -b <branch name>`
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+![for a repo](./branch.png)
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+Now make some changes in existing file. We have readme file where we are going to make chnages and see how it works.
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+![for a repo](./branch.png)
 
-###### Slapped cozy a that lightheartedly and far
+Here you can see I added one new line in readme file. Go to terminal/command prompt now.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+Type command: `git status`
+
+ ![for a repo](./change.png)
+
+Now add the changes and commit it.\
+To add command is `git add .`\
+To commit command is `git commit -m "commit details"`
+
+![for a repo](./add.png)
+
+As we can see the remote name of this repo is `origin`. After knowing remote now we can push our chnages easily. 
+
+Type this command to push the chnages: `git push origin <branch name>`
+
+![for a repo](./push.png)
+
+Here we can create our Pull request in two ways.
+1. You can a see a URL to create your pull request. (In your terminal/command prompt screen)
+2. Go to your repository on GitHub and you’ll see a button “Compare & pull request” and click it.
+
+![for a repo](./pull.png)
+
+Please provide necessary details on what you’ve done (You can reference issues using “#”). Now submit the pull request.
+
+![for a repo](./pullreq.png)
+
+Congratulations! You've made your first pull request.
+
+If your pull request will be approved and merged in master branch, you will receive a mail as confirmation. 
+
+We will discuss more about and git and git hub in upcoming posts. 
+
+Share this post if you find this helpful.
