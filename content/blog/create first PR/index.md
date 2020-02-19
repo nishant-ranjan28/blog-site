@@ -1,6 +1,6 @@
 ---
 title: Create your first Pull Request
-date: "2020-02-22T22:40:32.169Z"
+date: "2020-02-20T22:40:32.169Z"
 description: As a begineer creating a PR could be confusing so here I am going to explain.
 tags: ['2020', 'git', 'github']
 disqus: true
