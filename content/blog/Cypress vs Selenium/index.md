@@ -1,11 +1,10 @@
 ---
 title: Selenium vs Cypress
 date: "2020-01-16T22:12:03.284Z"
+description: What are the basic differences between Selenium and Cypress? Why Cypress is the trend in today's market?
 tags: ["2020", "Automation"]
 disqus: true
 ---
-
-What are the basic differences between Selenium and Cypress? Why Cypress is the trend in today's market?
  
 ### [Selenium](https://selenium.dev/) WebDriver
 WebDriver is a tool for writing automated tests of websites. It aims to mimic the behavior of a real user, and as such interacts with the HTML of the application.
