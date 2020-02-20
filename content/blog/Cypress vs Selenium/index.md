@@ -2,7 +2,7 @@
 title: Selenium vs Cypress
 date: "2020-01-16T22:12:03.284Z"
 description: What are the basic differences between Selenium and Cypress? Why Cypress is the trend in today's market?
-tags: ["2020", "Automation"]
+tags: ['2020', 'Automation']
 disqus: true
 ---
  

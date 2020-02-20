@@ -2,7 +2,7 @@
 title: Why Cypress?
 date: "2020-01-19T22:12:03.284Z",
 description: Cypress is a next generation front end testing tool built for the modern web.
-tags: ["2020", "Automation"]
+tags: ['2020', 'Automation']
 disqus: true
 ---
 
