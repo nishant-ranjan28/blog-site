@@ -1,4 +1,6 @@
 import React from 'react'
+import PropTypes from 'prop-types';
+
 import {
   FacebookShareButton,
   FacebookIcon,
@@ -12,7 +14,7 @@ import {
   RedditIcon
 } from 'react-share'
 
-export const ShareButtons = ({ twitterHandle, url, title, tags }) => (
+const ShareButtons = ({ twitterHandle, url, title, tags }) => (
   <div>
     <FacebookShareButton url={url}>
       <FacebookIcon />
@@ -35,5 +37,20 @@ export const ShareButtons = ({ twitterHandle, url, title, tags }) => (
     </WhatsappShareButton>
   </div>
 )
+
+ShareButtons.propTypes = {
+  twitterHandle: PropTypes.any,
+  url: PropTypes.any,
+  title: PropTypes.any,
+  tags: PropTypes.any
+}
+
+ShareButtons.defaultProps = {
+  twitterHandle: "nishu_2811",
+  url: "https://nishantranjan.in",
+  title: "Share this Blog",
+  tags: ["tech", "blog"]
+}
+
 
 export default ShareButtons
