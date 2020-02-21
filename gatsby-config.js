@@ -21,7 +21,7 @@ module.exports = {
     title,
     author,
     description,
-    siteUrl,
+    siteUrl: `https://nishantranjan.in`,
     social: {
       twitter,
       github,

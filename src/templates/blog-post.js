@@ -9,7 +9,7 @@ import TagList from 'components/TagList';
 import RelativePosts from 'components/RelativePosts';
 import Disqus from 'components/Disqus';
 import TranslationsLink from 'components/TranslationsLink';
-
+import ShareButtons from 'components/ShareButtons';
 import { formatReadingTime } from 'utils/helpers';
 import { formatDate } from 'utils/i18n';
 import { rhythm, scale } from 'utils/typography';
@@ -62,7 +62,7 @@ function BlogPostTemplate({ data, pageContext, location }) {
           marginBottom: rhythm(1),
         }}
       />
-      <Bio />
+      <ShareButtons url={location.href} tags={post.frontmatter.tags} />
 
       <ul
         style={{
