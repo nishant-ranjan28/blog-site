@@ -62,7 +62,7 @@ function BlogPostTemplate({ data, pageContext, location }) {
           marginBottom: rhythm(1),
         }}
       />
-      <ShareButtons url={location.href.toString()} tags={post.frontmatter.tags} />
+      <ShareButtons url={location.href} tags={post.frontmatter.tags} />
 
       <ul
         style={{
