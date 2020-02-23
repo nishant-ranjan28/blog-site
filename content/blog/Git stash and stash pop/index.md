@@ -2,7 +2,7 @@
 title: Git Stash and stash pop
 date: "2020-02-23T22:12:03.284Z"
 description: ""
-tags: ['2020', 'Automation']
+tags: ['2020', 'git', 'github']
 disqus: true
 ---
 
