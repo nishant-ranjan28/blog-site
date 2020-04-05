@@ -45,4 +45,4 @@ $ npx wdio config -y
 ```
 That's it! The configurator will install all required packages for you and create a config file called wdio.conf.js.
 
-**In next post we will run our first spec using webdriverIO.**
+[**In next post we will run our first spec using webdriverIO.**](https://nishantranjan.in/run%20test%20in%20webdriverIO/)
