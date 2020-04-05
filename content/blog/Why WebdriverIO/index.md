@@ -19,4 +19,30 @@ WebdriverIO is a custom implementation for selenium's W3C webdriver API. It is w
 
 ### Installation steps:
 
-To install webdriverIO, you will need node to be installed in your system.
+To install webdriverIO, you will need node to be installed in your system. Please go through below mentioned post to install it.
+
+[Install node in mac and windows](https://nishantranjan.in/Install%20nodes/)
+
+- Setup your project
+Before installing dependencies, we will need to initialize a new NPM project. This will allow us to use the CLI to install dependencies in your project.
+```
+$ mkdir webdriverio-test && cd webdriverio-test
+$ npm init -y
+```
+The -y will answer 'yes' to all the prompts, giving you a standard NPM project. Feel free to omit the -y if you'd like to specify your own project details.
+
+- Install WebdriverIO CLI
+```
+$ npm i --save-dev @wdio/cli
+```
+
+- Generate configuration file
+Next, we will generate a configuration file to store our WebdriverIO settings.
+
+To do that, just run the configuration utility:
+```
+$ npx wdio config -y
+```
+That's it! The configurator will install all required packages for you and create a config file called wdio.conf.js.
+
+**In next post we will run our first spec using webdriverIO.**
