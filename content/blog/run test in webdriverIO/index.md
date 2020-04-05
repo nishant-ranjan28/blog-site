@@ -66,4 +66,4 @@ Observe that Title was: `All posts | All Posts` printed in CommandPrompt/Termina
 **Watch here:**
 [![for a repo](./code.png)](https://youtu.be/fjgbtHBknhQ "code")
 
-Please let me know below in comment box if you face any issue in istalling and running spec.
+Please let me know below in comment box if you face any issue in installing and running spec.
