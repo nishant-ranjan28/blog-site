@@ -2,6 +2,7 @@
 title: Useful git tricks
 date: "2020-02-17T22:40:32.169Z"
 tags: ["2020","git"]
+disqus: true
 --- 
 
 In this post we are going to discuss about some very useful trick on Git.
