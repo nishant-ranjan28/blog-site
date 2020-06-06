@@ -13,14 +13,14 @@ You can merge master branch into the feature branch by running following command
 
     git checkout feature
     git merge master
-or with single line
+or with a single line
 
     git merge feature master
 
 ### Git Rebase
-Rebase is little different than merge. Rebase apply all feature branch changes on top of master branch by creating new commit for each of its previous commit messages. Which means that rebase command will change your commit history and regenerate commits again on top of master branch.
+Rebase is little different than merge. Rebase apply all feature branch changes on top of master branch by creating new commit for each of its previous commit messages. This means that rebase command will change your commit history and regenerate commits again on top of master branch.
 
-Following command can be used to rebase feature branch on top of master branch. "-i" option used for interactive rebase. Otherwise you can simply use "git rebase master".
+Following command can be used to rebase feature branch on top of master branch. "-i" option used for interactive rebase. Otherwise, you can simply use "git rebase master".
 
     git checkout feature
     git rebase -i master

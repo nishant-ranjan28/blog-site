@@ -1,16 +1,16 @@
 ---
-title: Insall node in mac and Windows
+title: Install node in mac and Windows
 date: "2020-04-05T22:12:03.284Z"
 description: ""
 tags: ['2020', 'node', 'mac', 'windows']
 disqus: true
 ---
-Node.js® is a version of Chrome’s V8 JavaScript runtime engine. It can also be used for developing native desktop applications. It has an in-built package manager called npm which stands for node package manager. Using npm, one can install packages which run on node.js. All packages are available on npm’s website npmjs.com.
+Node.js® is a version of Chrome’s V8 JavaScript runtime engine. It can also be used for developing native desktop applications. It has an in-built package manager called npm which stands for node package manager. Using npm, one can install packages that run on node.js. All packages are available on npm’s website npmjs.com.
 
 ![Install node](https://www.dyclassroom.com/image/topic/howto-mac/mac-node-homebrew/mac-node-homebrew.png)
 
 ### Installing node in mac through brew:
-First we need to install homebrew in MAC
+First, we need to install homebrew in MAC
 - Please execute the below command in terminal to install brew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
