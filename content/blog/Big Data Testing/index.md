@@ -12,7 +12,7 @@ disqus: true
 Big Data is a term used to describe a collection of data that is huge in size and yet growing exponentially with time. In short such data is so large and complex that none of the traditional data management tools are able to store it or process it efficiently.
 
 ### Need for Testing Big Data
-Let us assume a classic case of a drastic failure that occurred in a bank. The designers of the bank database name the _Customer Bank location pin code_ column as **CL**, _Customer ID_ column as **CI** and _Customer Phone number_ column as **CP**.
+Let us assume a classic case of a drastic failure that occurred in a bank. The designers of the bank database name the _Customer Bank location pin code_ column as **CL**, _Customer ID_ column as **CI**, and _Customer Phone number_ column as **CP**.
 
 The bank wants to make the key-value pairs of _Customer ID_  **CI** and _Customer Phone number_ **CP**. In this scenario, the MapReduce Algorithm gets messed up between the letters **P** and **L** due to a typing error.
 
@@ -26,7 +26,7 @@ Big Data Testing can be defined as the procedure that involves examining and val
 ### Big Data Testing Environment
 Owning the perfect Environment for testing a Big Data Application is very crucial. The basic requirements that makeup Data Testing are as follows.
 
--   Space for Storing, Processing and Validating Terra bytes of data should be available.
+-   Space for Storing, Processing, and Validating Terra bytes of data should be available.
 -   The Cluster and its respective nodes should be responsive
 -   Data Processing resources like the powerful CPU should be available
 
@@ -58,4 +58,3 @@ There are many categories involved in which a Big Data Application can be tested
 | Supports Structured Data | Supports all types of Data |
 | limited Data size does not require special Environment | Special Environment is needed because of the huge data |
 | Uses EXCEL based Macros or UI based automation tools | Has a vast range of programmable tools for testing |
-
