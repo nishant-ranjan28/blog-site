@@ -114,5 +114,11 @@ module.exports = {
         pagesPaths: ['/content/blog/'],
       },
     },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://nishantranjan.us19.list-manage.com/subscribe/post?u=93ebf18079549402eec1a84db&amp;id=304aca7659',
+      },
+    },
   ],
 };
