@@ -10166,10 +10166,10 @@ react-reconciler@^0.20.0:
     prop-types "^15.6.2"
     scheduler "^0.13.6"
 
-react-share@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/react-share/-/react-share-4.0.1.tgz#6a291552185178e4b980936546c8d13cf2e67c82"
-  integrity sha512-01Bpres5m74gaz7+scWSHZMCQftuZoOgi7v2fyAC71fC26wMZkQKQUGyx7cgLaDVyizpfj5D9IMfdeqiskDYRA==
+react-share@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/react-share/-/react-share-4.2.1.tgz#e699ec4b102b2544843f3fba0cff26e5827f1819"
+  integrity sha512-pHaJqiX9JTrEpK+JNb15eBtm5Z49ARJtFiHyhbIKC/qMq9tJ5JWH5J2RS2sJudyWnZs4+IgSJ8VrSUW8I9gLUA==
   dependencies:
     classnames "^2.2.5"
     jsonp "^0.2.1"
