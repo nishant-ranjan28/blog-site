@@ -2,7 +2,7 @@
 title: Frequently asked Selenium interview questions and answers - Part 1 (Q#1 to Q#10)
 date: "2020-07-31T22:12:03.284Z"
 description: "Interview Questions"
-tags: ['2020', 'Automation', 'Selenium']
+tags: ['2020', 'Automation', 'Selenium', 'Interview Questions']
 disqus: true
 ---
 
