@@ -1,5 +1,5 @@
 ---
-title: Frequently asked Selenium interview questions and answers - Part 1 (Q#21 to Q#30)
+title: Frequently asked Selenium interview questions and answers - Part 3 (Q#21 to Q#30)
 date: "2020-08-24T22:12:03.284Z"
 description: "Interview Questions"
 tags: ['2020', 'Automation', 'Selenium', 'Interview Questions']
