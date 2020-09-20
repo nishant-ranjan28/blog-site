@@ -10,7 +10,7 @@ disqus: true
 
 ![Interview questions](https://www.techtrainersonline.com/wp-content/uploads/2019/10/Selenium-Interview-questions.jpg)
 
-Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#1-Q#10](https://nishantranjan.in/50%20selenium%20questions%20%281-10%29/), [Q#11-Q#20](https://nishantranjan.in/50%20selenium%20questions%20(11-20)/)
+Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#1-Q#10](https://nishantranjan.in/50%20selenium%20questions%20%281-10%29/), [Q#11-Q#20](https://nishantranjan.in/50%20selenium%20questions%20(11-20)/), [Q#31-Q#40](https://nishantranjan.in/50%20selenium%20questions%20(31-40)/), [Q#41-Q#50](https://nishantranjan.in/50%20Selenium%20Questions%20(41-50)/)
 
 #### 21. Can Selenium handle window pop-ups?
 Selenium does not support handling pop-ups. Alert is used to display a warning message. It is a pop-up window that comes up on the screen.
