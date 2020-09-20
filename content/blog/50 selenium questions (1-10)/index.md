@@ -8,6 +8,8 @@ disqus: true
 
 Before I begin discussing the questions, I’d like to emphasize that Manual testing is time-consuming, tedious, boring, and prone to errors. This gave rise to automation testing and in-turn, demand for Selenium automation testers.
 
+Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#11-Q#20](https://nishantranjan.in/50%20selenium%20questions%20(11-20)/), [Q#21-Q#30](https://nishantranjan.in/50%20selenium%20questions%20(21-30)/), [Q#31-Q#40](https://nishantranjan.in/50%20selenium%20questions%20(31-40)/), [Q#41-Q#50](https://nishantranjan.in/50%20Selenium%20Questions%20(41-50)/)
+
 #### Benifits of automation testing:
 * 70% faster than the manual testing
 * Wider test coverage of application features

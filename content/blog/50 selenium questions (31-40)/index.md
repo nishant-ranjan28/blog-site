@@ -10,7 +10,7 @@ disqus: true
 
 ![Interview questions](https://www.techtrainersonline.com/wp-content/uploads/2019/10/Selenium-Interview-questions.jpg)
 
-Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#1-Q#10](https://nishantranjan.in/50%20selenium%20questions%20%281-10%29/), [Q#11-Q#20](https://nishantranjan.in/50%20selenium%20questions%20(11-20)/), [Q#21-Q#30](https://nishantranjan.in/50%20selenium%20questions%20(21-30)/)
+Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#1-Q#10](https://nishantranjan.in/50%20selenium%20questions%20%281-10%29/), [Q#11-Q#20](https://nishantranjan.in/50%20selenium%20questions%20(11-20)/), [Q#21-Q#30](https://nishantranjan.in/50%20selenium%20questions%20(21-30)/),[Q#41-Q#50](https://nishantranjan.in/50%20Selenium%20Questions%20(41-50)/)
 
 #### 31. Mention types of data you have handled in Selenium?
 * Excel

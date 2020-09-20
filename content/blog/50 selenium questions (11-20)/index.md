@@ -8,7 +8,7 @@ disqus: true
 
 ## Top 50 Selenium Interview Questions and Answers (Q#11-Q#20)
 
-Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#1-Q#10](https://nishantranjan.in/50%20selenium%20questions%20%281-10%29/)
+Previous posts of frequently asked Selenium interview questions and answers for freshers are [Q#1-Q#10](https://nishantranjan.in/50%20selenium%20questions%20%281-10%29/), [Q#21-Q#30](https://nishantranjan.in/50%20selenium%20questions%20(21-30)/), [Q#31-Q#40](https://nishantranjan.in/50%20selenium%20questions%20(31-40)/), [Q#41-Q#50](https://nishantranjan.in/50%20Selenium%20Questions%20(41-50)/)
 
 #### 11. How many parameters can selenium commands have at minimum?
 * **Host**
