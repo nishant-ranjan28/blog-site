@@ -14,7 +14,7 @@ function Footer() {
       <p>
         Made by{' '}
         <a
-          href="nishantranjan78@gmail.com"
+          href="https://resume.nishantranjan.in/"
           target="_blank"
           rel="noopener noreferrer"
         >
