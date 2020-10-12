@@ -57,11 +57,11 @@ class ClassComponent extends React.Component {
  }
 }
 ```
-### Passing props
+#### Passing props
 Passing props can be confusing, but let’s see how they are written in both class and functional components. Let’s say we are passing props of the name “Nishant” like below.
 
 ```
-<Component name="Nishant" />
+<Hello name="Nishant" />
 ```
 
 ```
