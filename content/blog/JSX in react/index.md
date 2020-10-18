@@ -2,7 +2,7 @@
 title: JSX in react?
 date: "2020-10-18T22:12:03.284Z"
 description: ""
-tags: ['2020', 'node', 'mac', 'windows']
+tags: ['2020', 'React', 'Javascript', 'JSX']
 disqus: true
 ---
 
