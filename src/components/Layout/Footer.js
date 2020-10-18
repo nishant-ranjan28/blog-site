@@ -12,7 +12,7 @@ function Footer() {
       }}
     >
       <p>
-        Made by{' '}
+        Written by{' '}
         <a
           href="https://resume.nishantranjan.in/"
           target="_blank"
