@@ -1,5 +1,5 @@
 ---
-title: Getting started with Tailwind CSS In A React Project?
+title: Getting started with Tailwind CSS In A React Project
 date: "2020-10-25T22:12:03.284Z"
 description: ""
 tags: ['2020', 'tailwind', 'React', 'css']
@@ -32,7 +32,7 @@ npm install tailwindcss postcss-cli autoprefixer@9.8.6 -D
 
 #### USING YARN
 ```
-yarn add tailwindcss postcss-cli autoprefixer -D
+yarn add tailwindcss postcss-cli autoprefixer@9.8.6 -D
 ```
 
 We need to initialize Tailwind CSS by creating the default configurations. Type the command below in your terminal:
