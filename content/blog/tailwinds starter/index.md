@@ -25,7 +25,7 @@ npx create-react-app react-tailwindcss && cd react-tailwindcss
 
 Next, we install a few development dependencies. You can use any of the options that work for you.
 
-#### USING NPM:
+#### USING NPM
 ```
 npm install tailwindcss postcss-cli autoprefixer@9.8.6 -D
 ```
@@ -107,6 +107,25 @@ If you are using yarn:
   "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
 }
 ```
+#### Now last step, we will import our CSS.
+
+Open your index.js file and make the following changes:
+* Import our main.css file and delete import './index.css';.
+
+```
+Import our main.css file and delete import './index.css';.
+```
+
+* Your *index.js* should look like this after the changes:
+
+```
+import React from "react";
+import ReactDOM from "react-dom";
+import './assets/main.css';
+import App from "./App";
+ReactDOM.render(<App />, document.getElementById("root"));
+```
+
 Next, we need to configure our project to build our CSS styles each time we run either the 
 ```
 npm start 
