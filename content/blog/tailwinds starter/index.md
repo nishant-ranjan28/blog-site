@@ -25,7 +25,7 @@ npx create-react-app react-tailwindcss && cd react-tailwindcss
 
 Next, we install a few development dependencies. You can use any of the options that work for you.
 
-#### USING NPM:
+#### USING NPM
 ```
 npm install tailwindcss postcss-cli autoprefixer@9.8.6 -D
 ```
