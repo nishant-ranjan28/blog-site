@@ -113,7 +113,7 @@ Open your index.js file and make the following changes:
 * Import our main.css file and delete import './index.css';.
 
 ```
-Import our main.css file and delete import './index.css';.
+import './assets/main.css'
 ```
 
 * Your *index.js* should look like this after the changes:
