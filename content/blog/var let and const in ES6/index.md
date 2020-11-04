@@ -69,7 +69,7 @@ The second console.log is outside of the for loop and the local variable “i”
 ## let
 `let` is a signal that the variable may be reassigned, such as a counter in a loop, or a value swap in an algorithm. It also signals that the variable will be used only in the block it’s defined in, which is not always the entire containing function.
 
-> A let variable be be updated but not redeclared.
+> A let variable can be updated but not redeclared.
 
 An example of trying to redeclare a let variable:
 
