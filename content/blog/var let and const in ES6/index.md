@@ -177,5 +177,6 @@ company
 | let | block-scope |Yes
 | const | block-scope |No
 
+To know the difference in scoping of `let` and `var`, please read about [hositing](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting).
 
 **Thank you for reading :)**
