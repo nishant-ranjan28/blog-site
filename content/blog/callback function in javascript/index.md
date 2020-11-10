@@ -65,7 +65,7 @@ setTimeout(function task2(){
 ```
 
 #### Callback in Arrow function
-We can also also write the same callback function as an ES6 arrow function, which is a newer type of function in JavaScript:
+We can also write the same callback function as an ES6 arrow function, which is a newer type of function in JavaScript:
 
 Example:
 ```
