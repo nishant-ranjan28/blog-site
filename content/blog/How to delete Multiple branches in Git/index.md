@@ -2,7 +2,7 @@
 title: How to delete Multiple branches in Git?
 date: "2020-11-15T22:12:03.284Z"
 description: "In this post I will share, how can you delete multiple branch in GIT?"
-tags: ['2020', '', 'github']
+tags: ['2020','github']
 disqus: true
 ---
 
