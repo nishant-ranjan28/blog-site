@@ -6021,11 +6021,12 @@ gatsby-plugin-sharp@^2.2.21:
     sharp "^0.23.0"
     svgo "^1.3.0"
 
-gatsby-plugin-typography@^2.3.7:
-  version "2.3.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-typography/-/gatsby-plugin-typography-2.3.7.tgz#dc7d82ce6064e16bd4fb431fbd78b76dfce62339"
+gatsby-plugin-typography@^2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-typography/-/gatsby-plugin-typography-2.8.0.tgz#81feda14a070814bd138e89b3d2dad859ab1133e"
+  integrity sha512-gKF8x3vDZ2wpSqAnDuiERULaLiwHWhZo6yhaIwpa32LYJay5n1IbZBX42mTcKPuOr2ad9vs2Inuj6+9DuwYAbA==
   dependencies:
-    "@babel/runtime" "^7.6.0"
+    "@babel/runtime" "^7.12.5"
 
 gatsby-react-router-scroll@^2.1.8:
   version "2.1.8"
