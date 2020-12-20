@@ -2,7 +2,7 @@
 title: What is E2E and How to write a good E2E tests?
 date: "2020-12-20T22:12:03.284Z"
 description: "Let's explore what is E2E and how to write a great E2E test?"
-tags: ['2020', 'git', 'github']
+tags: ['2020', 'E2E Testing', 'Cypress', 'Selenium']
 disqus: true
 ---
 
