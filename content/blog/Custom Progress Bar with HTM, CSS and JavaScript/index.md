@@ -186,3 +186,5 @@ Now, once the page will be loaded progress bar will not be updated until the use
 Output:
 
 <iframe width="100%" height="300" src="//jsfiddle.net/nishu2811/jtpg83vy/156/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+**Thanks for reading. Happy new Year. :)**
