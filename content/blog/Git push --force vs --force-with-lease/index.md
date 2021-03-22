@@ -1,6 +1,6 @@
 ---
 title: Git push --force vs --force-with-lease
-date: "2021-01-31T22:12:03.284Z"
+date: "2021-03-22T22:12:03.284Z"
 description: "It is well known that using Git’s push --force command is strongly discouraged and considered destructive"
 tags: ['2021', 'GIT', 'github', 'begineers']
 disqus: true
