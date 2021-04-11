@@ -6,6 +6,8 @@ tags: ['2021', 'Javascript', 'VanilaJs', 'Beginners']
 disqus: true
 ---
 
+![image credit: https://icon-icons.com/](./JS.png)
+
 The shorthand techniques of any programming language help you to write more clean and optimized code and let you achieve your goal with less coding. Let’s discuss some of the shorthand techniques of JavaScript one by one.
 
 
