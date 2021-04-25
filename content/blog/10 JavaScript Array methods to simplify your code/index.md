@@ -15,7 +15,7 @@ const words = ['HTML', 'CSS', 'JavaScript', 'Python', 'Java'];
 const longWords = words.filter(word => word.length > 4);
 console.log(longWords); 
 
-// ["JavaScript", "Python"]
+Output: ["JavaScript", "Python"]
 ```
 
 ### 2. forEach()
@@ -26,9 +26,10 @@ The `forEach()` method executes a provided function once for each array element.
 const words = ['HTML', 'CSS', 'JavaScript'];
 words.forEach(word => console.log(word));
 
-//HTML
-//CSS
-//JavaScript
+Output:
+HTML
+CSS
+JavaScript
 ```
 
 ### 3. some()
@@ -38,7 +39,9 @@ The some() method tests whether at least one element in the array passes the tes
 ```
 const myArray = [1,2,3,4,5];
 const evenEsists = myArray.some(element => element % 2 === 0);
-console.log (evenEsists); //true
+console.log (evenEsists); 
+
+Output: true
 ```
 
 ### 4. every()
@@ -48,7 +51,9 @@ The `every()` method tests whether all elements in the array pass the test imple
 ```
 const myArray = [1,2,3,4,5];
 const evenEsists = myArray.every(element => element % 2 === 0);
-console.log (evenEsists); //false
+console.log (evenEsists); 
+
+Output: false
 ```
 ### 5. includes()
 
@@ -56,8 +61,8 @@ The `includes()` method determines whether an array includes a certain value amo
 
 ```
 const numbers = [1,2,3,4,5];
-console.log(numbers.includes(2)); //true
-console.log(numbers.includes(8)); //false
+console.log(numbers.includes(2)); Output: true
+console.log(numbers.includes(8)); Output: false
 ```
 
 ### 6. map()
@@ -69,7 +74,7 @@ const numbers = [1,2,3,4,5];
 const doubled = numbers.map(x => x * 2);
 console.log(doubled) 
 
-//[2,4,6,8,10]
+Output: [2,4,6,8,10]
 ```
 
 ### 7. reduce()
@@ -81,7 +86,9 @@ const numbers = [10, 20, 30, 40, 50];
 
 const sum = numbers.reduce((x,y) => x+y);
 
-console.log(sum); //100
+console.log(sum); 
+
+Output: 100
 ```
 
 ### 8. sort()
@@ -91,11 +98,15 @@ The `sort()` method sorts the elements of an array in place and returns the sort
 ```
 const techs = ['HTML', 'CSS', 'JavaScript'];
 techs.sort();
-console.log(techs); //['CSS', 'HTML', 'JavaScript']
+console.log(techs); 
+
+Output: ['CSS', 'HTML', 'JavaScript']
 
 const numbers = [1, 30, 4, 21, 10000];
 numbers.sort((x, y) => x - y);
-console.log(numbers); //[1, 4, 21, 30, 10000]
+console.log(numbers); 
+
+Output: [1, 4, 21, 30, 10000]
 ```
 
 ### 9. find()
@@ -107,7 +118,9 @@ const { element } = require("prop-types");
 
 const numbers = [7, 14, 8, 128, 56];
 const found = numbers.find(element => element >10);
-console.log(found); //14
+console.log(found); 
+
+Output: 14
 ```
 
 ### 10. findIndex()
@@ -119,5 +132,7 @@ const numbers = [5, 12, 8, 130, 44];
 
 const indexFpund = numbers.findIndex(element => element > 15);
 
-console.log(indexFpund); //3
+console.log(indexFpund); 
+
+Output: 3
 ```
