@@ -1,7 +1,7 @@
 ---
 title: 10 useful JavaScript Array methods to simplify your codes
 date: "2021-04-25T22:12:03.284Z"
-description: ""
+description: "Javascript methods"
 tags: ['2021', 'Javascript', 'VanilaJs', 'Beginners']
 disqus: true
 ---
