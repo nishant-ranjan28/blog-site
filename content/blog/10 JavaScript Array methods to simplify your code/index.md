@@ -6,6 +6,8 @@ tags: ['2021', 'Javascript', 'VanilaJs', 'Beginners']
 disqus: true
 ---
 
+![code snippet](./test.png)
+
 ### 1. filter()
 
 The `filter()` method creates a new array with all elements that pass the test implemented by the provided function.
