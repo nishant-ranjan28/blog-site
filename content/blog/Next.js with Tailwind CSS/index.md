@@ -121,3 +121,16 @@ export default function Home() {
 
 Output:
 ![profile](profile.png)
+
+#### Configure PurgeCSS:
+One problem with Tailwind CSS is the large file size, but PurgeCSS can fix this. PurgeCSS reduces the file size by scanning your HTML and removing any classes that aren’t used. We only want this in production because if we are developing, we want to be able to use any Tailwind CSS class without running the build process.
+
+Now with Tailwind CSS v2, PurgeCSS is already included. All you have to do is update the tailwind.config.js file so Tailwind can tree-shake unused styles in production builds. Update your file like this:
+
+```
+purge: [
+    './pages/**/*.{js,jsx,ts,tsx}',
+      './components/**/*.{js,jsx,ts,tsx}',
+  ],
+```
+For now, we check all of our code inside .js, .jsx, .ts or .tsx files that live in either the pages/ or components/ folder. If you plan to add HTML in other folders like containers/ or something, make sure you add that folder to this configuration file.
