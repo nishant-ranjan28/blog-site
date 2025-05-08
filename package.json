@@ -27,7 +27,7 @@
     "gatsby-remark-smartypants": "^2.1.8",
     "gatsby-source-filesystem": "^2.1.22",
     "gatsby-transformer-remark": "^2.6.22",
-    "gatsby-transformer-sharp": "^2.2.14",
+    "gatsby-transformer-sharp": "^2.12.1",
     "prismjs": "^1.24.0",
     "prop-types": "^15.7.2",
     "ptz-i18n": "^1.0.0",
